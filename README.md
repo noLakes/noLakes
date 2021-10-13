@@ -1,7 +1,7 @@
-👋 hi, i'm @noLakes / shan
+👋 hi, i'm shan / @noLakes
 
-👀 i'm interested in web dev, blockchain, audio design, board games, synthesizers, magic the gathering and bicycles!
+👀 i dig all things code related, board games, synthesizers and video games old and new
 
-🌱 i’m currently learning full stack web development through www.theodinproject.com/about
+🌱 i started with web dev but got a job that has me learning that anway, so i'm focusing on c# and blender in my spare time
 
 📫 reach me here or through zerolake@tuta.io
