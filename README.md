@@ -2,6 +2,6 @@
 
 👀 i dig all things code related, board games, synthesizers and video games old and new
 
-🌱 i started with web dev but got a job that has me learning that anway, so i'm focusing on c# and blender in my spare time
+🌱 i started out learning web dev but swerved into c# and game dev for fun. looking at picking up web dev again soon to get job ready
 
 📫 reach me here or through zerolake@tuta.io
