@@ -1,7 +1,7 @@
-👋 hi, i'm shan / @noLakes
+hi, i'm shan / @noLakes
 
-👀 i dig all things code related, board games, synthesizers and video games old and new
+i dig all things code, board games, synthesizers, and video games
 
-🌱 i started out learning web dev but swerved into c# and game dev to do some exploring
+i started out learning web dev but have happily swerved into c# and game dev
 
-📫 twitter @no_lakes
+by day you can find me doing QA developmemnt testing at Torn Banner Studios
