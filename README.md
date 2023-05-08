@@ -1,4 +1,4 @@
-hi, i'm shan / @noLakes
+hi, i'm shan
 
 i dig all things code, board games, synthesizers, and video games
 
